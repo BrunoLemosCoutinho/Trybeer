@@ -1,0 +1,45 @@
+.div-main {
+  display: flex;
+  flex-direction: row;
+}
+
+.div-filha {
+  flex-direction: column;
+  margin-left: 15px;
+  align-items: space-around;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+.botoes {
+  width: 100px;
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+}
+
+.logout {
+  width: 100px;
+  margin-top: 200px;
+  margin-bottom: 10px;
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+}
+
+.divBotao {
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  width: 100%;
+  font-family: 'Syne Mono';
+}
+
+input {
+  display: block;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}

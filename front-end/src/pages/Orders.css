@@ -1,0 +1,10 @@
+.divPedidos {
+  width: 95%;
+  margin: 10px;
+  background-color: rgb(255, 228, 163);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+  box-shadow: 3px 3px rgb(196, 150, 33);
+}
+

@@ -1,0 +1,115 @@
+.div-main {
+  display: flex;
+  flex-direction: row;
+}
+
+.div-filha {
+  flex-direction: column;
+  margin-left: 15px;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+.botoes {
+  width: 100px;
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+  box-shadow: 1px 1px rgb(196, 150, 33);
+}
+
+.logout {
+  width: 100px;
+  margin-top: 200px;
+  margin-bottom: 10px;
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+  box-shadow: 1px 1px rgb(196, 150, 33);
+}
+
+.divDetails {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.buttonPedidos {
+  margin: 10px;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(255, 228, 163);
+  border: none;
+  box-shadow: 3px 3px rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  box-shadow: 1px 1px rgb(196, 150, 33);
+  font-family: Syne Mono;
+  width: 100px;
+}
+
+.logout {
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  box-shadow: 1px 1px rgb(196, 150, 33);
+  font-family: Syne Mono;
+  margin-bottom: 10px;
+  margin-top: 200px;
+  width: 100px;
+}
+
+.divDetails {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.buttonPedidos {
+  background-color: rgb(255, 228, 163);
+  border: none;
+  border-radius: 5px;
+  box-shadow: 3px 3px rgb(196, 150, 33);
+  font-family: Syne Mono;
+  margin: 10px;
+  padding: 10px;
+  width: 100%;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+.buttonEntregar {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 90%;
+  font-family: 'Syne Mono';
+  font-size: 16px;
+  border: none;
+  background-color: rgb(255, 228, 163);
+  box-shadow: 3px 3px rgb(196, 150, 33);
+  background-color: rgb(255, 228, 163);
+  border: none;
+  border-radius: 10px;
+  box-shadow: 3px 3px rgb(196, 150, 33);
+  font-family: Syne Mono;
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px;
+  width: 90%;
+}
+
+.Pendente {
+  color: red;
+}
+
+.Entregue {
+  color: green;
+}

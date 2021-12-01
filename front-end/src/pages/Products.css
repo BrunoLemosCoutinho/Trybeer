@@ -1,0 +1,22 @@
+.mainDivProducts {
+  display: block;
+  flex-direction: column;
+}
+
+.divFilha {
+  display:flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  flex-wrap: wrap;
+}
+
+.divCards {
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  flex-direction: row;
+  width: 45%;
+  background-color: white;
+  border-radius: 15px;
+  border: 1px solid rgb(255, 200, 50);
+}

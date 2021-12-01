@@ -1,0 +1,43 @@
+.mainDivProductCard {
+  border-radius: 15px;
+  height: 240px;
+}
+
+.productCard {
+  height: inherit;
+  position: relative;
+}
+
+.imageCard {
+  display: block;
+  margin: auto;
+  height: 50%;
+  margin-top: 5px;
+  border-radius: 15px;
+}
+
+.divBotoesMaisMenos {
+  position: absolute;
+  bottom: 0;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.botoesMainMenos {
+  border-radius: 5px;
+  margin: 10px;
+  padding: 5pxpx;
+  font-size: 20px;
+  background-color: rgb(196, 150, 33);
+}
+
+.texto {
+  font-size: 18px;
+  margin: 0px;
+  text-align: center;
+}
+
+.textoMaisMenos {
+  font-size: 20px;
+  margin: 10px;
+}

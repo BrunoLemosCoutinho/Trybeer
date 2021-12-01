@@ -1,0 +1,23 @@
+.formClientProfile {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  margin: auto;
+  width: 90%;
+  font-size: 25px;
+}
+
+.buttonUpdate {
+  margin-bottom: 15px;
+  margin-top: 20px;
+  padding: 5px;
+  width: 60%;
+  background-color: rgb(196, 150, 33);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+  font-size: 20px;
+  box-shadow: 3px 3px rgb(175, 133, 27);
+}

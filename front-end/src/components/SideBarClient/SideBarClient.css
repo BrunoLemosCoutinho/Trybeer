@@ -1,0 +1,23 @@
+.side-menu-container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  width: 220px;
+  justify-content: space-between;
+  height: 560px;
+  background-color: rgb(255, 228, 163);
+  box-shadow: 1px 1px rgb(196, 150, 33);
+}
+
+.botao {
+  margin-top: 30px;
+  width: 220px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgb(246, 202, 90);
+  border: rgb(196, 150, 33);
+  border-radius: 5px;
+  font-family: 'Syne Mono';
+  font-size: 18px;
+  box-shadow: 1px 1px rgb(196, 150, 33);
+}
