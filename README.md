@@ -1,5 +1,5 @@
 # Trybeer
-Projeto em grupo do curso da Trybe
+ [Projeto em grupo](https://github.com/tryber/sd-06-project-trybeer-v2) do curso da Trybe
 
 Membros:
 - Bruno Lemos Coutinho: https://github.com/BrunoLemosCoutinho
